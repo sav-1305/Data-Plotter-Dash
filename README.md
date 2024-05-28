@@ -23,7 +23,7 @@ Reads a locally accessed CSV file containing appropriately formatted data, and i
   import time
   import dash_bootstrap_components as dbc
   ```
-- Run the plotter.py file, and open the local-host server (127.0.0.1)
+- Run the ```plotter/plotter.py``` file, and open the local-host server (127.0.0.1)
 
 ## FUTURE WORK
 - Live Communication Protocol Integration
